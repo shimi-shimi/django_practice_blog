@@ -1,0 +1,41 @@
+#top-left{
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+
+.techfont {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.1em;
+    margin-bottom: 10px;
+}
+
+.bigbrand {
+    font-size: 1.1em;
+}
+
+.centerstage {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.postdate {
+	text-align: center;
+}
+
+.posttitle {
+	font-family: 'Roboto', sans-serif;
+    font-size: 2.3em;
+	text-align: center;
+}
+
+.postcontent {
+	font-family: 'Roboto', sans-serif;
+	font-size: 1.1em;
+}
+
+.btn-comment {
+	position: absolute;
+	right: 0px;
+}
+
